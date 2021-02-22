@@ -21,6 +21,14 @@ deno run --unstable --allow-net --allow-write src/index.ts
 
 - [优质网站同好者周刊（第 1 期）- 倾城之链](/docs/weekly-001.md)
 
+## 访问周刊
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/ee342d1ddc239e45175acf2871abc0a24dc890bccebb1ee7a78820a3b023263f/68747470733a2f2f696d6167652e6e6963656c696e6b732e736974652f7172636f64655f6a71782e6a7067" width=200 alt="倾城之链 - 小程序码">
+</div>
+
+本周刊，将于每周五，发布于公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641072&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com/tags/倾城之链/)，敬请关注。
+
 ## 如何反馈
 
 如果您对[倾城之链](https://nicelinks.site/?utm_source=weekly)感兴趣，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
