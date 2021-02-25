@@ -1,7 +1,9 @@
 import template from './template.ts'
 
 const articleBeginStr = `[倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。<br>`
-const articleEndStr = `>[倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。`
+const articleEndStr = `对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
+<div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg"  width="200px" alt="倾城之链 - 客服微信"></div>
+>[倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。`
 
 const queryString = (url: string, query: any) => {
   let str = []
@@ -13,7 +15,7 @@ const queryString = (url: string, query: any) => {
 }
 
 const writeToMdFile = (articleStr: string) => {
-  Deno.writeTextFile("./docs/weekly-001.md", articleStr)
+  Deno.writeTextFile("./docs/weekly-002.md", articleStr)
 }
 
 const fetchNicelinks = () => {

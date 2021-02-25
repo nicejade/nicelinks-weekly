@@ -172,3 +172,28 @@
 ── 出自[倾城之链 - 远航者 | 发现更好的应用](https://nicelinks.site/post/6026af507d76760687e004e2)
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
+
+## 本期文末寄语
+
+**知识的意义**：只有当局势不明朗，没有人告诉你该怎么办，而错误的判断又会导致一些不良的后果时，你要是能因为有知识而敢于拿一个主意，这才算是真有知识。
+
+> [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
+
+<img src="https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/300/h/300/interlace/1/ignore-error/1" style="min-width: 300px;" alt="小程序码 - 倾城之链"/>
+
+### 您可能感兴趣的文章
+
+- [基于 python 对文本做分词、生成词云图](https://www.jeffjade.com/2020/12/31/177-generating-word-cloud-based-on-python/)
+- [如何为不同应用窗口，自动切换不同输入法](https://www.jeffjade.com/2020/12/06/176-how-to-auto-switch-between-different-input-methods-for-different-app/)
+- [为文章图片添加外阴影效果](https://quickapp.lovejade.cn/how-to-add-shadow-effects-to-image/)
+- [Markdown 用法中的奇技淫巧](https://quickapp.lovejade.cn/markdown-magic-tricks/)
+- [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
+- [OKR 工作法，带你聚焦目标，高效工作](https://www.jeffjade.com/2020/10/12/172-okr-working-method-let-you-more-efficiently/)
+- [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
+- [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
+- [工具 vs 产品 And 知识 vs 思维](https://www.jeffjade.com/2020/08/18/166-tools-vs-products-and-knowledge-vs-thinking/)
+- [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
+- [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)
+- [最想与朋友分享的网站列表](https://www.jeffjade.com/2020/09/01/168-list-of-websites-i-most-want-to-share-with-my-friends/)
