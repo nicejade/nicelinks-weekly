@@ -15,7 +15,12 @@ const queryString = (url: string, query: any) => {
 }
 
 const writeToMdFile = (articleStr: string) => {
-  Deno.writeTextFile("./docs/weekly-002.md", articleStr)
+  const firstWeeklyDate = new Date('2021-02-12')
+  const currentDateTime = (new Date()).getTime()
+  const offsetDateTime = currentDateTime - firstWeeklyDate.getTime() 
+  const offsetNumber = Math.round(offsetDateTime / (7 * 86400000))
+  const weeklyNumber = offsetNumber.toString().padStart(3, '0')
+  Deno.writeTextFile(`./docs/weekly-${weeklyNumber}.md`, articleStr)
 }
 
 const fetchNicelinks = () => {
