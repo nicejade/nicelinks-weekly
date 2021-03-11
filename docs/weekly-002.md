@@ -173,6 +173,7 @@
 
 ### 您可能感兴趣的文章
 
+- [优质网站同好者周刊（第 3 期）- 倾城之链](https://www.jeffjade.com/2021/03/04/186-nicelinks-weekly-003/)
 - [优质网站同好者周刊（第 1 期）- 倾城之链](https://www.jeffjade.com/2021/02/19/182-nicelinks-weekly-001/)
 - [基于 python 对文本做分词、生成词云图](https://www.jeffjade.com/2020/12/31/177-generating-word-cloud-based-on-python/)
 - [如何为不同应用窗口，自动切换不同输入法](https://www.jeffjade.com/2020/12/06/176-how-to-auto-switch-between-different-input-methods-for-different-app/)
