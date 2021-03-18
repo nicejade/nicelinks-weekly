@@ -12,5 +12,4 @@ export default `
 **推荐语**：@REVIEW@
 
 ── 出自@FROM@
-
 `
