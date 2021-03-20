@@ -101,8 +101,6 @@ VUE 并没有 Web 版本，有提供 Android、iOS、小程序（没有剪辑功
 
 **标签**：[`论坛`](https://nicelinks.site/tags/论坛) · [`工具`](https://nicelinks.site/tags/工具) · [`开源`](https://nicelinks.site/tags/开源)
 
-
-
 >Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free.
 
 ![倾城之链 - Flarum | 一款优雅简洁论坛软件](https://oss.nicelinks.site/flarum.org.png?x-oss-process=style/png2jpg)
@@ -116,7 +114,7 @@ VUE 并没有 Web 版本，有提供 Android、iOS、小程序（没有剪辑功
 ── 出自[倾城之链 - Flarum | 一款优雅简洁论坛软件](https://nicelinks.site/post/604795465f9af714fe21dcbc)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
-<div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg"  width="200px" alt="倾城之链 - 客服微信"></div>
+<div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg"  style="width: 200px;min-width: 200px;" alt="倾城之链 - 客服微信"></div>
 
 ## 本期文末寄语
 

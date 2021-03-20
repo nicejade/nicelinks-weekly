@@ -1,10 +1,9 @@
 [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、及博客[晚晴幽草轩](https://www.jeffjade.com)；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 ## [悠然宜想亭](https://forum.lovejade.cn/?utm_source=nicelinks.site)
 
 **标签**：[`社区`](https://nicelinks.site/tags/社区) · [`论坛`](https://nicelinks.site/tags/论坛) · [`分享`](https://nicelinks.site/tags/分享)
-
 
 >悠然宜想亭，旨在营造温润、宽厚、互助的现代化社区；您可以在这里探讨技术、寻求创意、分享美食、聊聊工作、发布科普等等，甚至是为喜欢的作品打 Call、推广，只要遵纪守法、恪守道德，此隅云间，便是您悠然交流、适宜分享之所。
 
@@ -12,7 +11,7 @@
 
 **推荐语**：[悠然宜想亭](https://forum.lovejade.cn/)是基于 [Flarum](https://nicelinks.site/post/604795465f9af714fe21dcbc) 所搭建的现代化社区，旨在营造温润、宽厚、互助的分享环境，也为互联网开放性做些努力；其内容以「经世济用」、有趣、有价值为主调。关于[悠然宜想亭](https://forum.lovejade.cn/)，您如果想知道更多，可参阅如下几篇文章：
 
-- [关于“悠然宜想亭”的由来，以及及未来](https://forum.lovejade.cn/d/1)；
+- [关于“悠然宜想亭”的由来，以及未来](https://forum.lovejade.cn/d/1)；
 - [悠然宜想亭，各 Tag 的设定说明](https://forum.lovejade.cn/d/8-tag)；
 
 ── 出自[倾城之链 - 悠然宜想亭](https://nicelinks.site/post/60535e3306342c4b00e04ece)
@@ -70,8 +69,6 @@
 
 **标签**：[`前端开发`](https://nicelinks.site/tags/前端开发) · [`摄影`](https://nicelinks.site/tags/摄影) · [`程序员`](https://nicelinks.site/tags/程序员)
 
-
-
 >前端开发、人像写真
 
 ![倾城之链 - 卜卜口](https://oss.nicelinks.site/mouto.org.png?x-oss-process=style/png2jpg)
@@ -83,8 +80,6 @@
 ## [Coder: The Developer Workspace Platform](https://coder.com/?utm_source=nicelinks.site)
 
 **标签**：[`程序员`](https://nicelinks.site/tags/程序员) · [`开发者`](https://nicelinks.site/tags/开发者) · [`编码`](https://nicelinks.site/tags/编码)
-
-
 
 >Coder moves software development to your cloud, centralizing an organization's development initiatives and unlocking substantial gains in both developer velocity and enterprise security.
 
@@ -105,8 +100,6 @@
 
 **标签**：[`视频`](https://nicelinks.site/tags/视频) · [`网站`](https://nicelinks.site/tags/网站) · [`工具`](https://nicelinks.site/tags/工具)
 
-
-
 >Your website not only needs good copy, but also a personalized video to deeply connect with your users.
 
 ![倾城之链 - Embed.so - Make your website more personal and engaging](https://oss.nicelinks.site/embed.so.png?x-oss-process=style/png2jpg)
@@ -120,7 +113,7 @@
 ── 出自[倾城之链 - Embed.so - Make your website more personal and engaging](https://nicelinks.site/post/6051e83c06342c4b00e04ec1)
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg"  width="200px" alt="倾城之链 - 客服微信"></div>
+<div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 客服微信"></div>
 
 
 ## 本期文末寄语
