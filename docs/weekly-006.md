@@ -110,8 +110,6 @@ RT-Thread 拥有良好的软件生态，支持市面上所有主流的编译工�
 
 <div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 客服微信"></div>
 
-
-
 ## 本期文末寄语
 
 人既然如蚂蚁一样来到这个世上，忽生忽死，忽聚忽散，短短数十年里，该自在就自在吧，该潇洒就潇洒吧，各自完成自己的一段生命，这就是生存的全部意义。── 贾平凹 《自在独行》
