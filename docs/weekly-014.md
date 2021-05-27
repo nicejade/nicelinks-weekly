@@ -108,7 +108,6 @@
 
 <div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 客服微信"></div>
 
-
 ## 本期文末寄语
 
 **山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。苔痕上阶绿，草色入帘青。谈笑有鸿儒，往来无白丁**。可以调素琴，阅金经。无丝竹之乱耳，无案牍之劳形。南阳诸葛庐，西蜀子云亭。孔子云：何陋之有？── 唐 · 刘禹锡《陋室铭》
