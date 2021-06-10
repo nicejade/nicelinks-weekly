@@ -59,9 +59,9 @@ const genArticleStr = (sourceArr: Array<object>) => {
     const previewImg = `https://oss.nicelinks.site/${hostname}.png?x-oss-process=style/png2jpg`
     item.tags = item.tags.map((tag: any) => `[\`${tag}\`](https://nicelinks.site/tags/${tag})`)
     let tagsStr = item.tags.join(' · ')
-    const linkUrl = `${item.urlPath}?utm_source=nicelinks.site`
+    // const linkUrl = `${item.urlPath}?utm_source=nicelinks.site`
     const fromUrl = `https://nicelinks.site/post/${item._id}`
-    tempTemp = tempTemp.replace('@TITLE@', `[${item.title}](${linkUrl})`)
+    tempTemp = tempTemp.replace('@TITLE@', `[${item.title}](${fromUrl})`)
       .replace('@TITLE@', item.title)
       .replace('@TAGS@', tagsStr)
       .replace('@KEYWORDS@', item.keywords ? `\n**关键字**：${item.keywords}\n` : '')
