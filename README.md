@@ -19,6 +19,7 @@ deno run --unstable --allow-net --allow-write src/index.ts
 
 #### **六月**
 
+- [优质网站同好者周刊（第 18 期）- 倾城之链](/docs/weekly-018.md)
 - [优质网站同好者周刊（第 17 期）- 倾城之链](/docs/weekly-017.md)
 - [优质网站同好者周刊（第 16 期）- 倾城之链](/docs/weekly-016.md)
 

@@ -87,7 +87,6 @@
 
 <div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 客服微信"></div>
 
-
 ## 本期文末寄语
 
 阅读是拓展人生空间的一个主要途径，每本书都是一扇门，通向我们没有涉足的新世界，在阅读中，我们经历了我们本来不可能在有生之年经历的事情，游历了哪些我们的肉身永远无法到达的地方，愿大家在阅读中建立美好的生活！── 刘慈欣《三体》 扉页
