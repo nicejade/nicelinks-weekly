@@ -97,7 +97,6 @@
 
 <div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 客服微信"></div>
 
-
 ## 本期文末寄语
 
 “**牢记自己即将死去，这是我所知道的避免陷入患得患失困境的最好方法。你已经一无所有，就没有理由不听从自己的心声**……求知若饥，虚心若愚。”──史蒂夫·乔布斯
