@@ -17,6 +17,10 @@ deno run --unstable --allow-net --allow-write src/index.ts
 
 ## 2021
 
+#### **八月**
+
+- [优质网站同好者周刊（第 25 期）- 倾城之链](/docs/weekly-025.md)
+
 #### **七月**
 
 - [优质网站同好者周刊（第 24 期）- 倾城之链](/docs/weekly-024.md)
