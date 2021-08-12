@@ -80,7 +80,6 @@
 
 <div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 客服微信"></div>
 
-
 ## 本期文末寄语
 
 大江东去，浪淘尽，千古风流人物。故垒西边，人道是、三国周郎赤壁。乱石穿空，惊涛拍岸，卷起千堆雪。江山如画，一时多少豪杰。遥想公谨当年，小乔初嫁了，雄姿英发。羽扇纶巾，谈笑间、强虏灰飞烟灭。故国神游，多情应笑我，早生华发。人间如梦，一尊还酹江月。── 北宋·苏轼《念奴娇·赤壁怀古》
@@ -91,7 +90,7 @@
 
 ### 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 25 期）- 倾城之链](https://www.jeffjade.com/2021/07/29/210-nicelinks-weekly-024/)
+- [优质网站同好者周刊（第 24 期）- 倾城之链](https://www.jeffjade.com/2021/07/29/210-nicelinks-weekly-024/)
 - [优质网站同好者周刊（第 23 期）- 倾城之链](https://www.jeffjade.com/2021/07/23/209-nicelinks-weekly-023/)
 - [优质网站同好者周刊（第 22 期）- 倾城之链](https://www.jeffjade.com/2021/07/08/207-nicelinks-weekly-021/)
 - [优质网站同好者周刊（第 21 期）- 倾城之链](https://www.jeffjade.com/2021/07/08/207-nicelinks-weekly-021/)
