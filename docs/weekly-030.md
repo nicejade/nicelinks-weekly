@@ -62,6 +62,10 @@
 衣沾不足惜，但使愿无违**。
 ── 东晋 · 陶渊明《归园田居》
 
+> [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
+
+<img src="https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/300/h/300/interlace/1/ignore-error/1" style="width: 200px;min-width: 200px;" alt="小程序码 - 倾城之链"/>
+
 ### 您可能感兴趣的文章
 
 - [优质网站同好者周刊（第 28 期）- 倾城之链](https://www.jeffjade.com/2021/08/26/214-nicelinks-weekly-028/)

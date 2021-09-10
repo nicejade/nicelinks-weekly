@@ -103,6 +103,10 @@ https://icon.horse/icon/domain.com
 
 “我今年一百岁，已经走到了人生的边缘，我无法确知自己还能往前走多远，寿命是不由自主的，但我很清楚我快‘回家’了。我得洗净这一百年沾染的污秽回家。我没有‘登泰山而小天下’之感，只在自己的小天地里过平静的生活。细想至此，我心静如水，我该平和地迎接每一天，过好每一天，准备回家。”──《坐在人生的边上——杨绛先生百岁答问》
 
+> [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
+
+<img src="https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/300/h/300/interlace/1/ignore-error/1" style="width: 200px;min-width: 200px;" alt="小程序码 - 倾城之链"/>
+
 ### 您可能感兴趣的文章
 
 - [优质网站同好者周刊（第 28 期）- 倾城之链](https://www.jeffjade.com/2021/08/26/214-nicelinks-weekly-028/)
