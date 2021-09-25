@@ -136,7 +136,6 @@
 
 <div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 客服微信"></div>
 
-
 ## 本期文末寄语
 
 曲则全，枉则直；洼则盈，弊则新；少则得，多则惑，是以圣人抱一为天下式。不自见，故明；不自是，故彰；不自伐，故有功；不自矜，故长。夫唯不争，故天下莫能与之争。古之所谓“曲则全”者，岂虚言哉？诚全而归之。── 春秋 · 老子《道德经》
