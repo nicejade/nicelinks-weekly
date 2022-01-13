@@ -19,6 +19,7 @@ deno run --unstable --allow-net --allow-write src/index.ts
 
 #### **一月**
 
+- [优质网站同好者周刊（第 48 期）- 倾城之链](https://blog.nicelinks.site/weekly-048/)
 - [优质网站同好者周刊（第 47 期）- 倾城之链](https://blog.nicelinks.site/weekly-047/)
 
 ## 2021
