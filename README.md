@@ -15,14 +15,60 @@ deno run --unstable --allow-net --allow-write src/index.ts
 ./start.sh
 ```
 
-## 2022
+## 访问周刊
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/ee342d1ddc239e45175acf2871abc0a24dc890bccebb1ee7a78820a3b023263f/68747470733a2f2f696d6167652e6e6963656c696e6b732e736974652f7172636f64655f6a71782e6a7067" width=200 alt="倾城之链 - 小程序码">
+</div>
+
+本周刊，将于每周五，发布于公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641072&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com/tags/倾城之链/)，敬请关注。
+
+## 如何反馈
+
+如果您对[倾城之链](https://nicelinks.site/?utm_source=weekly)感兴趣，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
+
+<div align="center">
+  <img src="https://s3.ax1x.com/2021/02/19/yfCjOJ.jpg" width=200/>
+</div>
+
+### 公元 2022 年
+
+#### **六月**
+
+- [优质网站同好者周刊（第 71 期）- 倾城之链](https://blog.nicelinks.site/weekly-071/)
+- [优质网站同好者周刊（第 70 期）- 倾城之链](https://blog.nicelinks.site/weekly-070/)
+- [优质网站同好者周刊（第 69 期）- 倾城之链](https://blog.nicelinks.site/weekly-069/)
+- [优质网站同好者周刊（第 68 期）- 倾城之链](https://blog.nicelinks.site/weekly-068/)
+
+#### **五月**
+
+- [优质网站同好者周刊（第 67 期）- 倾城之链](https://blog.nicelinks.site/weekly-067/)
+- [优质网站同好者周刊（第 66 期）- 倾城之链](https://blog.nicelinks.site/weekly-066/)
+- [优质网站同好者周刊（第 65 期）- 倾城之链](https://blog.nicelinks.site/weekly-065/)
+- [优质网站同好者周刊（第 64 期）- 倾城之链](https://blog.nicelinks.site/weekly-064/)
+- [优质网站同好者周刊（第 63 期）- 倾城之链](https://blog.nicelinks.site/weekly-063/)
+-
+
+#### **四月**
+
+- [优质网站同好者周刊（第 62 期）- 倾城之链](https://blog.nicelinks.site/weekly-062/)
+- [优质网站同好者周刊（第 61 期）- 倾城之链](https://blog.nicelinks.site/weekly-061/)
+- [优质网站同好者周刊（第 60 期）- 倾城之链](https://blog.nicelinks.site/weekly-060/)
+- [优质网站同好者周刊（第 59 期）- 倾城之链](https://blog.nicelinks.site/weekly-059/)
+
+#### **三月**
+
+- [优质网站同好者周刊（第 58 期）- 倾城之链](https://blog.nicelinks.site/weekly-058/)
+- [优质网站同好者周刊（第 57 期）- 倾城之链](https://blog.nicelinks.site/weekly-057/)
+- [优质网站同好者周刊（第 56 期）- 倾城之链](https://blog.nicelinks.site/weekly-056/)
+- [优质网站同好者周刊（第 55 期）- 倾城之链](https://blog.nicelinks.site/weekly-055/)
 
 #### **二月**
 
 - [优质网站同好者周刊（第 54 期）- 倾城之链](https://blog.nicelinks.site/weekly-054/)
-- - [优质网站同好者周刊（第 53 期）- 倾城之链](https://blog.nicelinks.site/weekly-053/)
-- - [优质网站同好者周刊（第 52 期）- 倾城之链](https://blog.nicelinks.site/weekly-052/)
-- - [优质网站同好者周刊（第 51 期）- 倾城之链](https://blog.nicelinks.site/weekly-051/)
+- [优质网站同好者周刊（第 53 期）- 倾城之链](https://blog.nicelinks.site/weekly-053/)
+- [优质网站同好者周刊（第 52 期）- 倾城之链](https://blog.nicelinks.site/weekly-052/)
+- [优质网站同好者周刊（第 51 期）- 倾城之链](https://blog.nicelinks.site/weekly-051/)
 
 #### **一月**
 
@@ -31,7 +77,7 @@ deno run --unstable --allow-net --allow-write src/index.ts
 - [优质网站同好者周刊（第 48 期）- 倾城之链](https://blog.nicelinks.site/weekly-048/)
 - [优质网站同好者周刊（第 47 期）- 倾城之链](https://blog.nicelinks.site/weekly-047/)
 
-## 2021
+### 公元 2021 年
 
 #### **十二月**
 
@@ -112,21 +158,9 @@ deno run --unstable --allow-net --allow-write src/index.ts
 - [优质网站同好者周刊（第 2 期）- 倾城之链](/docs/weekly-002.md)
 - [优质网站同好者周刊（第 1 期）- 倾城之链](/docs/weekly-001.md)
 
-## 访问周刊
+## Star 历史
 
-<div align="center">
-  <img src="https://camo.githubusercontent.com/ee342d1ddc239e45175acf2871abc0a24dc890bccebb1ee7a78820a3b023263f/68747470733a2f2f696d6167652e6e6963656c696e6b732e736974652f7172636f64655f6a71782e6a7067" width=200 alt="倾城之链 - 小程序码">
-</div>
-
-本周刊，将于每周五，发布于公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641072&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com/tags/倾城之链/)，敬请关注。
-
-## 如何反馈
-
-如果您对[倾城之链](https://nicelinks.site/?utm_source=weekly)感兴趣，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
-
-<div align="center">
-  <img src="https://s3.ax1x.com/2021/02/19/yfCjOJ.jpg" width=200/>
-</div>
+[![nicelinks-weekly Star History Chart](https://api.star-history.com/svg?repos=nicejade/nicelinks-weekly&type=Date)](https://star-history.com/#nicejade/nicelinks-weekly)
 
 ## License
 
