@@ -35,6 +35,7 @@ deno run --unstable --allow-net --allow-write src/index.ts
 
 #### **十二月**
 
+- [优质网站同好者周刊（第 95 期）- 倾城之链](https://blog.nicelinks.site/weekly-095/)
 - [优质网站同好者周刊（第 94 期）- 倾城之链](https://blog.nicelinks.site/weekly-094/)
 
 #### **十一月**
@@ -122,82 +123,82 @@ deno run --unstable --allow-net --allow-write src/index.ts
 
 #### **十二月**
 
-- [优质网站同好者周刊（第 46 期）- 倾城之链](/docs/weekly-046.md)
-- [优质网站同好者周刊（第 45 期）- 倾城之链](/docs/weekly-045.md)
-- [优质网站同好者周刊（第 44 期）- 倾城之链](/docs/weekly-044.md)
-- [优质网站同好者周刊（第 43 期）- 倾城之链](/docs/weekly-043.md)
-- [优质网站同好者周刊（第 42 期）- 倾城之链](/docs/weekly-042.md)
+- [优质网站同好者周刊（第 46 期）- 倾城之链](https://blog.nicelinks.site/weekly-046)
+- [优质网站同好者周刊（第 45 期）- 倾城之链](https://blog.nicelinks.site/weekly-045)
+- [优质网站同好者周刊（第 44 期）- 倾城之链](https://blog.nicelinks.site/weekly-044)
+- [优质网站同好者周刊（第 43 期）- 倾城之链](https://blog.nicelinks.site/weekly-043)
+- [优质网站同好者周刊（第 42 期）- 倾城之链](https://blog.nicelinks.site/weekly-042)
 
 #### **十一月**
 
-- [优质网站同好者周刊（第 41 期）- 倾城之链](/docs/weekly-041.md)
-- [优质网站同好者周刊（第 40 期）- 倾城之链](/docs/weekly-040.md)
-- [优质网站同好者周刊（第 39 期）- 倾城之链](/docs/weekly-039.md)
-- [优质网站同好者周刊（第 38 期）- 倾城之链](/docs/weekly-038.md)
+- [优质网站同好者周刊（第 41 期）- 倾城之链](https://blog.nicelinks.site/weekly-041)
+- [优质网站同好者周刊（第 40 期）- 倾城之链](https://blog.nicelinks.site/weekly-040)
+- [优质网站同好者周刊（第 39 期）- 倾城之链](https://blog.nicelinks.site/weekly-039)
+- [优质网站同好者周刊（第 38 期）- 倾城之链](https://blog.nicelinks.site/weekly-038)
 
 #### **十月**
 
-- [优质网站同好者周刊（第 37 期）- 倾城之链](/docs/weekly-037.md)
-- [优质网站同好者周刊（第 36 期）- 倾城之链](/docs/weekly-036.md)
-- [优质网站同好者周刊（第 35 期）- 倾城之链](/docs/weekly-035.md)
-- [优质网站同好者周刊（第 34 期）- 倾城之链](/docs/weekly-034.md)
-- [优质网站同好者周刊（第 33 期）- 倾城之链](/docs/weekly-033.md)
+- [优质网站同好者周刊（第 37 期）- 倾城之链](https://blog.nicelinks.site/weekly-037)
+- [优质网站同好者周刊（第 36 期）- 倾城之链](https://blog.nicelinks.site/weekly-036)
+- [优质网站同好者周刊（第 35 期）- 倾城之链](https://blog.nicelinks.site/weekly-035)
+- [优质网站同好者周刊（第 34 期）- 倾城之链](https://blog.nicelinks.site/weekly-034)
+- [优质网站同好者周刊（第 33 期）- 倾城之链](https://blog.nicelinks.site/weekly-033)
 
 #### **九月**
 
-- [优质网站同好者周刊（第 32 期）- 倾城之链](/docs/weekly-032.md)
-- [优质网站同好者周刊（第 31 期）- 倾城之链](/docs/weekly-031.md)
-- [优质网站同好者周刊（第 30 期）- 倾城之链](/docs/weekly-030.md)
-- [优质网站同好者周刊（第 29 期）- 倾城之链](/docs/weekly-029.md)
+- [优质网站同好者周刊（第 32 期）- 倾城之链](https://blog.nicelinks.site/weekly-032)
+- [优质网站同好者周刊（第 31 期）- 倾城之链](https://blog.nicelinks.site/weekly-031)
+- [优质网站同好者周刊（第 30 期）- 倾城之链](https://blog.nicelinks.site/weekly-030)
+- [优质网站同好者周刊（第 29 期）- 倾城之链](https://blog.nicelinks.site/weekly-029)
 
 #### **八月**
 
-- [优质网站同好者周刊（第 28 期）- 倾城之链](/docs/weekly-028.md)
-- [优质网站同好者周刊（第 27 期）- 倾城之链](/docs/weekly-027.md)
-- [优质网站同好者周刊（第 26 期）- 倾城之链](/docs/weekly-026.md)
-- [优质网站同好者周刊（第 25 期）- 倾城之链](/docs/weekly-025.md)
+- [优质网站同好者周刊（第 28 期）- 倾城之链](https://blog.nicelinks.site/weekly-028)
+- [优质网站同好者周刊（第 27 期）- 倾城之链](https://blog.nicelinks.site/weekly-027)
+- [优质网站同好者周刊（第 26 期）- 倾城之链](https://blog.nicelinks.site/weekly-026)
+- [优质网站同好者周刊（第 25 期）- 倾城之链](https://blog.nicelinks.site/weekly-025)
 
 #### **七月**
 
-- [优质网站同好者周刊（第 24 期）- 倾城之链](/docs/weekly-024.md)
-- [优质网站同好者周刊（第 23 期）- 倾城之链](/docs/weekly-023.md)
-- [优质网站同好者周刊（第 22 期）- 倾城之链](/docs/weekly-022.md)
-- [优质网站同好者周刊（第 21 期）- 倾城之链](/docs/weekly-021.md)
-- [优质网站同好者周刊（第 20 期）- 倾城之链](/docs/weekly-020.md)
+- [优质网站同好者周刊（第 24 期）- 倾城之链](https://blog.nicelinks.site/weekly-024)
+- [优质网站同好者周刊（第 23 期）- 倾城之链](https://blog.nicelinks.site/weekly-023)
+- [优质网站同好者周刊（第 22 期）- 倾城之链](https://blog.nicelinks.site/weekly-022)
+- [优质网站同好者周刊（第 21 期）- 倾城之链](https://blog.nicelinks.site/weekly-021)
+- [优质网站同好者周刊（第 20 期）- 倾城之链](https://blog.nicelinks.site/weekly-020)
 
 #### **六月**
 
-- [优质网站同好者周刊（第 19 期）- 倾城之链](/docs/weekly-019.md)
-- [优质网站同好者周刊（第 18 期）- 倾城之链](/docs/weekly-018.md)
-- [优质网站同好者周刊（第 17 期）- 倾城之链](/docs/weekly-017.md)
-- [优质网站同好者周刊（第 16 期）- 倾城之链](/docs/weekly-016.md)
+- [优质网站同好者周刊（第 19 期）- 倾城之链](https://blog.nicelinks.site/weekly-019)
+- [优质网站同好者周刊（第 18 期）- 倾城之链](https://blog.nicelinks.site/weekly-018)
+- [优质网站同好者周刊（第 17 期）- 倾城之链](https://blog.nicelinks.site/weekly-017)
+- [优质网站同好者周刊（第 16 期）- 倾城之链](https://blog.nicelinks.site/weekly-016)
 
 #### **五月**
 
-- [优质网站同好者周刊（第 15 期）- 倾城之链](/docs/weekly-015.md)
-- [优质网站同好者周刊（第 14 期）- 倾城之链](/docs/weekly-014.md)
-- [优质网站同好者周刊（第 13 期）- 倾城之链](/docs/weekly-013.md)
-- [优质网站同好者周刊（第 12 期）- 倾城之链](/docs/weekly-012.md)
+- [优质网站同好者周刊（第 15 期）- 倾城之链](https://blog.nicelinks.site/weekly-015)
+- [优质网站同好者周刊（第 14 期）- 倾城之链](https://blog.nicelinks.site/weekly-014)
+- [优质网站同好者周刊（第 13 期）- 倾城之链](https://blog.nicelinks.site/weekly-013)
+- [优质网站同好者周刊（第 12 期）- 倾城之链](https://blog.nicelinks.site/weekly-012)
 
 #### **四月**
 
-- [优质网站同好者周刊（第 11 期）- 倾城之链](/docs/weekly-011.md)
-- [优质网站同好者周刊（第 10 期）- 倾城之链](/docs/weekly-010.md)
-- [优质网站同好者周刊（第 9 期）- 倾城之链](/docs/weekly-009.md)
-- [优质网站同好者周刊（第 8 期）- 倾城之链](/docs/weekly-008.md)
-- [优质网站同好者周刊（第 7 期）- 倾城之链](/docs/weekly-007.md)
+- [优质网站同好者周刊（第 11 期）- 倾城之链](https://blog.nicelinks.site/weekly-011)
+- [优质网站同好者周刊（第 10 期）- 倾城之链](https://blog.nicelinks.site/weekly-010)
+- [优质网站同好者周刊（第 9 期）- 倾城之链](https://blog.nicelinks.site/weekly-009)
+- [优质网站同好者周刊（第 8 期）- 倾城之链](https://blog.nicelinks.site/weekly-008)
+- [优质网站同好者周刊（第 7 期）- 倾城之链](https://blog.nicelinks.site/weekly-007)
 
 #### **三月**
 
-- [优质网站同好者周刊（第 6 期）- 倾城之链](/docs/weekly-006.md)
-- [优质网站同好者周刊（第 5 期）- 倾城之链](/docs/weekly-005.md)
-- [优质网站同好者周刊（第 4 期）- 倾城之链](/docs/weekly-004.md)
-- [优质网站同好者周刊（第 3 期）- 倾城之链](/docs/weekly-003.md)
+- [优质网站同好者周刊（第 6 期）- 倾城之链](https://blog.nicelinks.site/weekly-006)
+- [优质网站同好者周刊（第 5 期）- 倾城之链](https://blog.nicelinks.site/weekly-005)
+- [优质网站同好者周刊（第 4 期）- 倾城之链](https://blog.nicelinks.site/weekly-004)
+- [优质网站同好者周刊（第 3 期）- 倾城之链](https://blog.nicelinks.site/weekly-003)
 
 #### **二月**
 
-- [优质网站同好者周刊（第 2 期）- 倾城之链](/docs/weekly-002.md)
-- [优质网站同好者周刊（第 1 期）- 倾城之链](/docs/weekly-001.md)
+- [优质网站同好者周刊（第 2 期）- 倾城之链](https://blog.nicelinks.site/weekly-002)
+- [优质网站同好者周刊（第 1 期）- 倾城之链](https://blog.nicelinks.site/weekly-001)
 
 ## Star 历史
 
