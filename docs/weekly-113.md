@@ -48,7 +48,7 @@ Docker Desktop 的直接替代品。借助简单但功能强大的应用程序�
 
 **OrbStack 是免费的吗**？OrbStack 在测试期间完全免费使用，但之后将成为付费产品。他们仍在制定细节（个人与企业用途、订阅与永久许可、定价、OSS 和学生折扣等）。
 
-**OrbStack 与 Docker Desktop 有何不同**？`OrbStack` 是 Docker Desktop 的直接替代品，它更快、更轻、更简单且更易于使用（在启动速度、CPU 使用率、网络、内存等方面都更具优势）。有关详细比较，请参阅 [https://nicelinks.site/redirect?url=OrbStack 与 Docker Desktop](https://docs.orbstack.dev/compare/docker-desktop) 。
+**OrbStack 与 Docker Desktop 有何不同**？`OrbStack` 是 Docker Desktop 的直接替代品，它更快、更轻、更简单且更易于使用（在启动速度、CPU 使用率、网络、内存等方面都更具优势）。有关详细比较，请参阅 [OrbStack 与 Docker Desktop](https://nicelinks.site/redirect?url=https://docs.orbstack.dev/compare/docker-desktop) 。
 
 总之，OrbStack 是 Docker Desktop 非常棒的替代品，得到广大 Mac 用户的认可；如果您用的是 Mac 系统，并且在工作、生活中较高频率使用 Docker，那么 `OrbStack`  将是您下一款酷爱应用软件。
 
