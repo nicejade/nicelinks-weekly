@@ -138,6 +138,8 @@ shiki.getHighlighter({
 
 ## 您可能感兴趣的文章
 
+- [优质网站同好者周刊（第 130 期）- 倾城之链](https://blog.nicelinks.site/weekly-130/)
+- [优质网站同好者周刊（第 129 期）- 倾城之链](https://blog.nicelinks.site/weekly-129/)
 - [优质网站同好者周刊（第 128 期）- 倾城之链](https://blog.nicelinks.site/weekly-128/)
 - [优质网站同好者周刊（第 127 期）- 倾城之链](https://blog.nicelinks.site/weekly-127/)
 - [优质网站同好者周刊（第 126 期）- 倾城之链](https://blog.nicelinks.site/weekly-126/)
