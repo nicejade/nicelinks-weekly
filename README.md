@@ -33,6 +33,10 @@ deno run --unstable --allow-net --allow-write src/index.ts
 
 ### 公元 2023 年
 
+#### **十一月**
+
+- [优质网站同好者周刊（第 142 期）- 倾城之链](https://blog.nicelinks.site/weekly-142/)
+
 #### **十月**
 
 - [优质网站同好者周刊（第 141 期）- 倾城之链](https://blog.nicelinks.site/weekly-141/)
