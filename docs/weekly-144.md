@@ -45,7 +45,7 @@
 
 ![倾城之链 - Discover Profitable Startups & Online Business Ideas - Startups.fyi](https://oss.nicelinks.site/www.startups.fyi.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Startups.fyi](https://nicelinks.site/redirect?url=https://www.startups.fyi/) ，一个很棒的独立开发、创业公司的展示网站；配有应用标题、描述、截图、推出时间、更新时间、地点、创始人信息、盈利、跳转链接等信息；其特点是较为全，各位类型的项目都有，而且盈利很直观，非常适合大家去看看，了解成功的创始人如何建立盈利的在线业务，寻找一些独立开发的灵感。
+**推荐语**：[Startups.fyi](https://nicelinks.site/redirect?url=https://www.startups.fyi/) ，一个很棒的独立开发、创业公司的展示网站；配有应用标题、描述、截图、推出时间、更新时间、地点、创始人信息、盈利、跳转链接等信息；其特点是较为全，各种类型的项目都有，而且盈利很直观，非常适合大家去看看，了解成功的创始人如何建立盈利的在线业务，寻找一些独立开发的灵感。
 
 [Startups.fyi](https://nicelinks.site/redirect?url=https://www.startups.fyi/) 表示：将定期采访盈利初创公司和副项目背后的创始人和制造者💸，您可以通过订阅他们的免费每周通讯🤗，从而及时了解独立开发行当最新产品。另外值得一提的是，您可以在该网站分享您的项目，或者 [在 Startups.fyi 做广告](https://www.startups.fyi/sponsor) ，从而使得您的产品触达到更多人。
 
@@ -204,6 +204,9 @@ MediaTek Filogic 已进入 Wi-Fi 6/6E 和 Wi-Fi 7 解决方案的新时代，具
 
 ## 您可能感兴趣的文章
 
+- [优质网站同好者周刊（第 144 期）- 倾城之链](https://blog.nicelinks.site/weekly-144/)
+- [优质网站同好者周刊（第 143 期）- 倾城之链](https://blog.nicelinks.site/weekly-143/)
+- [优质网站同好者周刊（第 142 期）- 倾城之链](https://blog.nicelinks.site/weekly-142/)
 - [优质网站同好者周刊（第 141 期）- 倾城之链](https://blog.nicelinks.site/weekly-141/)
 - [优质网站同好者周刊（第 140 期）- 倾城之链](https://blog.nicelinks.site/weekly-140/)
 - [优质网站同好者周刊（第 139 期）- 倾城之链](https://blog.nicelinks.site/weekly-139/)
