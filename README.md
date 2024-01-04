@@ -18,7 +18,7 @@ deno run --unstable --allow-net --allow-write src/index.ts
 ## 访问周刊
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/ee342d1ddc239e45175acf2871abc0a24dc890bccebb1ee7a78820a3b023263f/68747470733a2f2f696d6167652e6e6963656c696e6b732e736974652f7172636f64655f6a71782e6a7067" width=200 alt="倾城之链 - 小程序码">
+  <img src="https://camo.githubusercontent.com/ee342d1ddc239e45175acf2871abc0a24dc890bccebb1ee7a78820a3b023263f/68747470733a2f2f696d6167652e6e6963656c696e6b732e736974652f7172636f64655f6a71782e6a7067" width=200 alt="晚晴幽草轩 - 公众号">
 </div>
 
 本周刊，将于每周五，发布于公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641072&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com/tags/倾城之链/)，敬请关注。
@@ -28,8 +28,12 @@ deno run --unstable --allow-net --allow-write src/index.ts
 如果您对[倾城之链](https://nicelinks.site/?utm_source=weekly)感兴趣，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
 <div align="center">
-  <img src="https://s3.ax1x.com/2021/02/19/yfCjOJ.jpg" width=200/>
+  <img src="https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1" width=200/>
 </div>
+
+### 公元 2024 年
+
+- [优质网站同好者周刊（第 151 期）- 倾城之链](https://blog.nicelinks.site/weekly-151/)
 
 ### 公元 2023 年
 
