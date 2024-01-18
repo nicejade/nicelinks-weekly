@@ -33,6 +33,9 @@ deno run --unstable --allow-net --allow-write src/index.ts
 
 ### 公元 2024 年
 
+#### **元月**
+
+- [优质网站同好者周刊（第 153 期）- 倾城之链](https://blog.nicelinks.site/weekly-153/)
 - [优质网站同好者周刊（第 152 期）- 倾城之链](https://blog.nicelinks.site/weekly-152/)
 - [优质网站同好者周刊（第 151 期）- 倾城之链](https://blog.nicelinks.site/weekly-151/)
 
