@@ -18,7 +18,7 @@ deno run --unstable --allow-net --allow-write src/index.ts
 ## 访问周刊
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/ee342d1ddc239e45175acf2871abc0a24dc890bccebb1ee7a78820a3b023263f/68747470733a2f2f696d6167652e6e6963656c696e6b732e736974652f7172636f64655f6a71782e6a7067" width=200 alt="晚晴幽草轩 - 公众号">
+  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" width=200 alt="晚晴幽草轩 - 公众号">
 </div>
 
 本周刊，将于每周五，发布于公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641072&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com/tags/倾城之链/)，敬请关注。
